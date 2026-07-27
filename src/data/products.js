@@ -1,0 +1,51 @@
+export const products = [
+  {
+    id: 'galaxy-s24',
+    name: 'Samsung Galaxy S24',
+    category: 'Smartphones',
+    price: 74999,
+    rating: 4.8,
+    createdAt: '2025-06-15',
+  },
+  {
+    id: 'pixel-9',
+    name: 'Google Pixel 9',
+    category: 'Smartphones',
+    price: 79999,
+    rating: 4.7,
+    createdAt: '2025-08-04',
+  },
+  {
+    id: 'oneplus-nord',
+    name: 'OnePlus Nord CE',
+    category: 'Smartphones',
+    price: 19999,
+    rating: 4.4,
+    createdAt: '2025-01-22',
+  },
+  {
+    id: 'sony-headphones',
+    name: 'Sony Noise Cancelling Headphones',
+    category: 'Audio',
+    price: 24999,
+    rating: 4.6,
+    createdAt: '2025-05-19',
+  },
+  {
+    id: 'jbl-speaker',
+    name: 'JBL Portable Speaker',
+    category: 'Audio',
+    price: 8999,
+    rating: 4.3,
+    createdAt: '2024-12-10',
+  },
+  {
+    id: 'logitech-keyboard',
+    name: 'Logitech Mechanical Keyboard',
+    category: 'Accessories',
+    price: 8499,
+    rating: 4.5,
+    createdAt: '2025-07-01',
+  },
+]
+
