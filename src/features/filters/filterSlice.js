@@ -3,7 +3,7 @@ import { createSlice } from '@reduxjs/toolkit'
 const initialState = {
   category: 'All',
   minPrice: 0,
-  maxPrice: 100000,
+  maxPrice: 150000,
   search: '',
   sortBy: 'newest',
 }
@@ -39,4 +39,3 @@ export const {
 } = filterSlice.actions
 
 export default filterSlice.reducer
-
